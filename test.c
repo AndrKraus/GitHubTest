@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    printf("Hello World.");
+    printf("Now its a feature not a Bug.");
+    printf("oh whats this, another line?");
 }
